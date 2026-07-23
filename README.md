@@ -1,7 +1,13 @@
 ## Hi, I'm Divij
 I am a PhD student in Computational and Applied
 Mathematics at Imperial College London
-<img width="417" height="417" alt="ezgif com-gif-maker-2" align="right" src="https://github.com/user-attachments/assets/6eceabda-4151-4e4f-ab75-707d7188f45d" />
+<img width="200" height="200" alt="output" align="right" src="https://github.com/user-attachments/assets/2588508d-01df-4f12-ab01-02abfc650f23" />
+
+
+
+
+
+
 
 
 
