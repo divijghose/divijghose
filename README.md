@@ -14,3 +14,18 @@
 </table>
 
 <hr />
+
+<h2>Software & Tools</h2>
+<h3>A few examples of the software and tools I develop, use, and contribute to:</h3>
+<p>
+	<a href="https://github.com/firedrakeproject/firedrake" title="Firedrake" style="display: inline-block; margin-right: 8px;">
+		<img width="50" height="50" alt="Firedrake" src="images/firedrake.png">
+	</a>
+	<a href="https://pyadjoint.org" title="pyadjoint" style="display: inline-block; margin-right: 8px;">
+		<img width="60" height="60" alt="pyadjoint" src="images/pyadjoint.png">
+	</a>
+	<a href="https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html" title="jax" style="display: inline-block; margin-right: 8px;">
+		<img width="100" height="50" alt="jax" src="images/jax.png">
+	</a>
+</p>
+
