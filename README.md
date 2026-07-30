@@ -27,5 +27,7 @@
 	<a href="https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html" title="jax" style="display: inline-block; margin-right: 8px;">
 		<img width="100" height="50" alt="jax" src="images/jax.png">
 	</a>
+	<a href="https://airexlab.github.io/fastvpinns/" title="fastvpinns" style="display: inline-block; margin-right: 8px;">
+		<img width="150" height="50" alt="fastvpinns" src="images/fastvpinns.png">
 </p>
 
