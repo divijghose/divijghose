@@ -29,5 +29,10 @@
 	</a>
 	<a href="https://airexlab.github.io/fastvpinns/" title="fastvpinns" style="display: inline-block; margin-right: 8px;">
 		<img width="150" height="50" alt="fastvpinns" src="images/fastvpinns.png">
+	</a>
+	<a href="https://mlir.llvm.org" title="MLIR" style="display: inline-block; margin-right: 8px;">
+		<img width="50" height="50" alt="MLIR" src="images/mlir.png">
+	</a>
 </p>
+
 
